@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+html {
+  font-size: 100%;
+}
+
+body {
+  color: dimgrey;
+  font-size: 0.9rem;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.container {
+  background-color: azure;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+
